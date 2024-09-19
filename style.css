@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: peachpuff;
+    color: brown;
+    font-family: monospace;
+    margin: 15%;
+    font-size: large;
+}
+
+button{
+    background-color: brown;
+    border-style: none;
+    color: peachpuff;
+    border-radius: 8px;
+    width: 120px;
+    height: 50px;
+    transition: 0.2s;
+    font-family: monospace;
+}
+
+button:hover{
+    background-color: rgb(148, 26, 56);
+    color: rgb(235, 175, 147);
+}
+
+#slay{
+    width: 40%;
+}
+
+#lamp{
+    width: 20%;
+}
